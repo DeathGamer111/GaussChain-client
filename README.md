@@ -1,5 +1,9 @@
 ## Gauss Chain Client
 
+![Gauss Gang](assets/gauss-gang.png)
+
+> Gauss-specific fork of Polygon Edge. Upstream documentation remains applicable unless this repository documents a Gauss customization.
+
 Gauss Chain uses the Polygon-Edge blockchain client, an exstensible and modular framework for building Ethereum-compatible blockchain networks
 
 WARNING: This is a work in progress so architectural changes may happen in the future. The code has not been audited yet, so please contact [Polygon Edge team](mailto:edge@polygon.technology) if you would like to use it in production.
